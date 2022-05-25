@@ -1,0 +1,23 @@
+npm env,
+cor,
+bodyParser
+------------
+
+function validate() {
+// 		var c = document.getElementById('email1').value;
+// 		var email_regex = /^\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,3}$/;
+// 		var flag = true;
+// 		if(c.trim()==""){
+// 			alert("blank email");
+// 			 flag = false;
+// 		}
+// 		else if(!c.match(email_regex)){
+// 			document.getElementById('email_error').innerHTML = "Enter Correct Email";
+// 			 flag =false
+// 		}
+// 		// alert(flag);
+// 		return flag
+// 	}
+===============
+email=>mohini_namde2007@yahoo.com
+password=>mohiniraut
